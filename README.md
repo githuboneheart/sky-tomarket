@@ -1,4 +1,4 @@
-(RUN BOT
+RUN BOT
 
 1. git clone https://github.com/githuboneheart/sky-tomarket.git
 2. cd sky-tomarket
